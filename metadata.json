@@ -1,0 +1,6 @@
+{
+  "name": "ByeByeStrike AI",
+  "description": "Convert copyrighted songs into perfect open-source music prompts with detailed audio DNA analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
